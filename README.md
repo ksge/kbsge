@@ -1,4 +1,8 @@
 # kbsge
+this project is discontinued in favor of kiss strip poker
+https://github.com/ksge/ksp
+
+
 KissBit Strip Game Engine (KBSGE) - a free/opensource strip game engine made for monetization
 
 a free/opensource strip game engine, based on ksge (https://github.com/ksge/ksge) wich features:
